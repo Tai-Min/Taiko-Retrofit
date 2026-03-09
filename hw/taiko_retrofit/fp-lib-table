@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "taiko")(type "KiCad")(uri "${KIPRJMOD}/taiko_retrofit.pretty")(options "")(descr ""))
+)
