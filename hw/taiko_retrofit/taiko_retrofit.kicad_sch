@@ -1959,7 +1959,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
 			(at 179.07 63.5 0)
 			(effects
 				(font
@@ -2372,7 +2372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "3rdparty:RP2040 Zero"
+		(property "Footprint" "RP2040-Zero:RP2040 Zero"
 			(at 125.73 74.93 0)
 			(effects
 				(font
